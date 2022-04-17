@@ -1,5 +1,5 @@
 # Fake-News-Classification
-Content based Fake news classification using LSTM, Deep Learning in PyTorch
+Content based Fake News classification using LSTM, Deep Learning in PyTorch
 ### Getting Started
 Run the notebook in Google colab and add the unzipped dataset files in the realtime data. It will take a few hours to train the model.
 ### Description
